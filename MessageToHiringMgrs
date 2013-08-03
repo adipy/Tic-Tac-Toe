@@ -1,0 +1,6 @@
+Hi! I'm still figuring out GitHub, this file will be to tell you details of my implementation.
+So far I have a working tic-tac-toe but it's a little kludgy. I'll submit a few more times while I clean it up.
+
+I implemented a rule set rather than going through every possible move and selecting the winning/tieing choices.
+
+Ryan Theiss-Aird
